@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
 
   s.authors                   = [ "Alexey Osipenko" ]
   s.email                     = [ "alexey@osipenko.in.ua" ]
-  s.homepage                  = "http://aratak.github.com/liqueur/"
+  s.homepage                  = "https://github.com/cimon-io/liqueur/"
   s.description = "CSS framework with most used snippets for true cutupping. "
   s.version = Liqueur::VERSION
 
